@@ -1,6 +1,6 @@
 img{
     float:right;
-    border-color:black;
+    border: 2px solid #c8927f;
 }
 .fixed-top{
     padding-bottom: 40px;
